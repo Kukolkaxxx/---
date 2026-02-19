@@ -25,3 +25,20 @@ Console.WriteLine($"Горожанкин Клим Максимович - {q}");
 // индентификаторы Горожанкин - q, Еленский - w, Казаков - e, Каширина - r, Михайлова - t, Фролов - y, Ширяев - u, Шлыков - i
 
 // Идентификатор - 11.9
+double w = 11.8;
+double e = 11.2;
+double r = 10.5;
+double t = 11.1;
+double y = 11.9;
+double u = 11.4;
+double i = 11.5;
+
+Console.WriteLine($"Еленский Евгений Владиславович - {w}");
+Console.WriteLine($"Казаков Данила Дмитриевич - {e}");
+Console.WriteLine($"Каширина Анастасия Игоревна - {r}");
+Console.WriteLine($"Михайлова Екатерина Сергеевна - {t}");
+Console.WriteLine($"Фролов Максим Романович - {y}");
+Console.WriteLine($"Ширяев Александр Антонович - {u}");
+Console.WriteLine($"Шлыков Денис Романович - {i}");
+
+Console.WriteLine(q+w+e+r+t+y+u+i);
