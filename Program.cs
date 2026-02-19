@@ -37,4 +37,4 @@ Console.WriteLine($"Ширяев Александр Антонови - {u}");
 Console.WriteLine($"Шлыков Денис Романович - {i}");
 double a = q + w + e + r + t + y + u + i;
 Console.WriteLine($"Сумма оценок - {a}");
-//
+// 
